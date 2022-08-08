@@ -12,7 +12,7 @@
 
 # 在线预览
 
-https://lixue12345.github.io/vite-vue3/
+https://lixue9527.github.io/vite-vue3/
 
 # 自动部署
 
